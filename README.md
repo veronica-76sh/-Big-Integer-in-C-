@@ -26,6 +26,15 @@ The Big Integer Library in C++ provides an efficient implementation of arbitrary
 - A C++ compiler supporting C++11 or higher.
 - [CMake](https://cmake.org/) for building the project (optional but recommended).
 
+## Resources
+
+Here are some resources that may help you understand and contribute to the project:
+
+- [C++ Documentation] (http://www.cplusplus.com/): Comprehensive reference for C++ programming.
+- [Karatsuba Algorithm](https://en.wikipedia.org/wiki/Karatsuba_algorithm): Detailed explanation of the Karatsuba multiplication algorithm on Wikipedia.
+- [Modular Arithmetic](https://www.geeksforgeeks.org/modular-arithmetic/): A guide to understanding modular arithmetic on GeeksforGeeks.
+
+
 ### Installation
 
 1. Clone the repository:
@@ -82,15 +91,6 @@ If you find any bugs or have ideas for enhancements, feel free to submit an issu
 
 
 This project was inspired by the need for handling very large integers in computational projects. Special thanks to all contributors who helped improve the library.
-
-## Resources
-
-Here are some resources that may help you understand and contribute to the project:
-
-- [C++ Documentation](http://www.cplusplus.com/): Comprehensive reference for C++ programming.
-- [Karatsuba Algorithm](https://en.wikipedia.org/wiki/Karatsuba_algorithm): Detailed explanation of the Karatsuba multiplication algorithm on Wikipedia.
-- [Modular Arithmetic](https://www.geeksforgeeks.org/modular-arithmetic/): A guide to understanding modular arithmetic on GeeksforGeeks.
-
 
 
 
