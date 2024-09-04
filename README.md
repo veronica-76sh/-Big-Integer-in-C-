@@ -2,11 +2,11 @@
 
 # Big Integer Library in C++
 
+[![Contributors](https://img.shields.io/github/contributors/veronica-76sh/-Big-Integer-in-C-)](https://github.com/veronica-76sh/-Big-Integer-in-C-/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/veronica-76sh/-Big-Integer-in-C-)](https://github.com/veronica-76sh/-Big-Integer-in-C-/issues)
+[![Forks](https://img.shields.io/github/forks/veronica-76sh/-Big-Integer-in-C-)](https://github.com/veronica-76sh/-Big-Integer-in-C-/network/members)
+[![Stars](https://img.shields.io/github/stars/veronica-76sh/-Big-Integer-in-C-)](https://github.com/veronica-76sh/-Big-Integer-in-C-/stargazers)
 
-[![Contributors](https://img.shields.io/github/contributors/yourusername/BigIntegerLibrary)](https://github.com/yourusername/BigIntegerLibrary/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/yourusername/BigIntegerLibrary)](https://github.com/yourusername/BigIntegerLibrary/issues)
-[![Forks](https://img.shields.io/github/forks/yourusername/BigIntegerLibrary)](https://github.com/yourusername/BigIntegerLibrary/network/members)
-[![Stars](https://img.shields.io/github/stars/yourusername/BigIntegerLibrary)](https://github.com/yourusername/BigIntegerLibrary/stargazers)
 
 ## Overview
 
@@ -87,9 +87,12 @@ This project was inspired by the need for handling very large integers in comput
 
 Here are some resources that may help you understand and contribute to the project:
 
-- **[C++ Documentation](http://www.cplusplus.com/)**: Comprehensive reference for C++ programming.
-- **[Karatsuba Algorithm](https://en.wikipedia.org/wiki/Karatsuba_algorithm)**: Detailed explanation of the Karatsuba multiplication algorithm on Wikipedia.
-- **[Modular Arithmetic](https://www.geeksforgeeks.org/modular-arithmetic/)**: A guide to understanding modular arithmetic on GeeksforGeeks.
+
+
+- [C++ Documentation](http://www.cplusplus.com/): Comprehensive reference for C++ programming.
+- [Karatsuba Algorithm](https://en.wikipedia.org/wiki/Karatsuba_algorithm): Detailed explanation of the Karatsuba multiplication algorithm on Wikipedia.
+- [Modular Arithmetic](https://www.geeksforgeeks.org/modular-arithmetic/): A guide to understanding modular arithmetic on GeeksforGeeks.
+
 
 
 
