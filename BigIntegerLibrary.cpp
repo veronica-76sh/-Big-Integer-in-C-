@@ -446,21 +446,22 @@ int main()
 	cout << "The number of digits"
 		<< " in first big integer = "
 		<< Length(first) << '\n';
-	BigInt second(12345);
+	BigInt second("12345");
 	if (first == second) {
 		cout << "first and second are equal!\n";
 	}
 	else
 		cout << "Not equal!\n";
 	BigInt third("10000");
-	BigInt fourth("100000");
+	BigInt fourth("123456789012345678901234567890");
 	if (third < fourth) {
 		cout << "third is smaller than fourth!\n";
 	}
-	BigInt fifth("10000000");
+	BigInt fifth("987654321098765432109876543210");
 	if (fifth > fourth) {
 		cout << "fifth is larger than fourth!\n";
 	}
+	
 
 	// Printing all the numbers
 	cout << "first = " << first << '\n';
